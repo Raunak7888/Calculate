@@ -1,6 +1,6 @@
 [🏠 Home](./README.md) | [🧮 Usage Guide](./USAGE.md)
 
-# Not a Basic Calculator 🚀
+# Calculate - Not a Basic Calculator 🚀
 
 <div align="center">
 
